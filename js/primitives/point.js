@@ -30,3 +30,4 @@ class Point {
     return this.x === point.x && this.y === point.y;
   }
 }
+ console.log("Point class loaded");
